@@ -1,5 +1,7 @@
 # RedisSpringBootGetStart
-
+# https://www.baeldung.com/spring-data-redis-tutorial
+# https://docs.spring.io/spring-data/redis/docs/current/reference/html/#why-spring-redis
+# https://www.baeldung.com/jedis-java-redis-client-library
 # redis +jedis
 
 This is the demo for Redis work as DB CRUD Repository and Messages Published&Subscriber
